@@ -51,7 +51,9 @@ Hands-on environments to practice hacking, penetration testing, and security res
 ## 💻 Homelab Hardware  
 Hardware recommendations for building a personal security lab.  
 
-- [ComputeBlade - Mini Server Solution](https://computeblade.com/buy-computeblade/)  
+- [ComputeBlade - Mini Server Solution](https://computeblade.com/buy-computeblade/)
+- [Beelink Mini PCs](https://www.amazon.com/stores/page/89A674FA-B403-4AFB-BDBC-FBE41ADD3AE6/)
+- [Miniforum Mini PCs](https://www.amazon.com/stores/page/96E173AA-4774-4885-B6AF-4ABE3EA9259F/)
 
 ---  
 
