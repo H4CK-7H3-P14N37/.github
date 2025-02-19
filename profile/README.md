@@ -19,6 +19,7 @@ A collection of essential tools for security research, penetration testing, and 
 - [PhantomSec - OSINT & Security Toolset](https://phantomsec.tools/#features)  
 - [BloodHound - AD Attack Pathfinding](https://github.com/SpecterOps/BloodHound/wiki/)  
 - [GOAD - Active Directory Lab Framework](https://github.com/Orange-Cyberdefense/GOAD)  
+- [GoBuster](https://github.com/OJ/gobuster)
 
 ---  
 
