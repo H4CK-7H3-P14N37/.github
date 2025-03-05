@@ -21,7 +21,7 @@ A collection of essential tools for security research, penetration testing, and 
 - [GOAD - Active Directory Lab Framework](https://github.com/Orange-Cyberdefense/GOAD)  
 - [GoBuster](https://github.com/OJ/gobuster)
 - [Eyewitness](https://www.kali.org/tools/eyewitness/)
-
+- [Dante Socks Proxy](https://www.inet.no/dante/)
 ---  
 
 ## 📖 Walkthroughs  
