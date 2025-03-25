@@ -81,6 +81,9 @@ Hardware recommendations for building a personal security lab.
 - [Beelink Mini PCs](https://www.amazon.com/s?k=beelink+mini+pc)
 - [Miniforum Mini PCs](https://www.amazon.com/s?k=miniforum+mini+pc)
 
+Software recommednations for building a virtual server.
+- [Proxmox](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)
+
 ---
 
 ## Blogs & Research
