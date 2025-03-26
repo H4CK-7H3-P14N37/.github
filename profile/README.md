@@ -85,6 +85,7 @@ Join our community on Discord! → [H4CK-7H3-P14N37 Discord Server](https://disc
 - [edrs](https://github.com/Mr-Un1k0d3r/EDRs)
 - [evilginx2](https://github.com/kgretzky/evilginx2)
 - [z-cam](https://github.com/sankethj/z-cam)
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 
 ---
 
