@@ -104,6 +104,7 @@ Join our community on Discord! → [H4CK-7H3-P14N37 Discord Server](https://disc
 - [flare-vm](https://github.com/mandiant/flare-vm)
 - [GOAD - Active Directory Lab Framework](https://github.com/Orange-Cyberdefense/GOAD)
 - [Docker](https://www.docker.com/)
+- [XCP-ng](https://xcp-ng.org/)
 
 ---
 
