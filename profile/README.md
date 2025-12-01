@@ -6,9 +6,6 @@ Welcome to H4CK-7H3-P14N37! This organization is dedicated to tracking, curating
 
 We believe in learning by doing, and this collection provides everything from tools to help automate security testing to hands-on labs and learning platforms. Whether you're just starting or an experienced security professional, we hope this repository helps sharpen your skills. 
 
-Join our community on Discord! → [H4CK-7H3-P14N37 Discord Server](https://discord.gg/XAw2eaX9)
-
-
 # External Resource Links
 ---
 
