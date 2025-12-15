@@ -14,6 +14,7 @@
 | Ubuntu                 | 20.04 LTS                     | Focal Fossa          | 8.2p1                    |
 | Ubuntu                 | 18.04 LTS                     | Bionic Beaver        | 7.6p1                    |
 | Ubuntu                 | 16.04 LTS                     | Xenial Xerus         | 7.2p1                    |
+| Ubuntu                 | 14.04 LTS                     | Trusty Tahr          | 6.6p1                    |
 | Other Linux Distros    | RHEL                          | 9.x                  | 8.7p1                    |
 | Other Linux Distros    | CentOS Stream                 | 9                    | 8.7p1                    |
 | Other Linux Distros    | Rocky Linux                   | 9.x                  | 8.7p1                    |
